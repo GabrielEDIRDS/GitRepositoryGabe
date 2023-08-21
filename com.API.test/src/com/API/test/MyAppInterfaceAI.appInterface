@@ -1,0 +1,4 @@
+#content /*appInterface 2 */ package com.API.test
+
+def applicationInterface MyAppInterfaceAI {
+}
